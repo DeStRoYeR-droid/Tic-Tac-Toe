@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 Basic GUI for the popular game called Tic-Tac-Toe
 
-You need a python distibution (3.7 and above) and a module named pygame to run the following program or you can run it online on GitHub desktop
+You may download he exe file, but for that you need the icon and the exe file in the same folder in order to run
