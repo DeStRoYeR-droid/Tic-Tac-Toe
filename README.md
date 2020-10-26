@@ -6,4 +6,7 @@ but for that you need the icon and the exe file in the same folder in order to r
 
 Or just simply download the code and run the exe file
 
+Press r to reset the game back to the original state
+
 And enjoy !
+(loop)
